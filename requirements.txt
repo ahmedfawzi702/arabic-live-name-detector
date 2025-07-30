@@ -1,0 +1,8 @@
+whisper
+openai-whisper
+numpy
+sounddevice
+pydub
+pygame
+plyer
+requests
